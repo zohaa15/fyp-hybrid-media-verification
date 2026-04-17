@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Runtime folders (created automatically on first run)
+uploads/
+video_hashes/query/
+
+# OS
+.DS_Store
+Thumbs.db
